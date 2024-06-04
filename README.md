@@ -1,2 +1,2 @@
 # E-Commerce simulator
-A Spring boot appto run a basic app for an e-commerce.
+A Spring boot app to run a basic app for an e-commerce.
